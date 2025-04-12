@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @Vexatious-777 // Alexander L. Griffith
-- 👀 I’m interested in just about everything but really just want a place to start so I can grow!
-- 🌱 I graduated from Southern New Hampshire University.
-- 💞️ I’m looking to collaborate on just about anything that will take someone who is still learning and looking for opportunities to grow!
-- 📫 How to reach me: Email:// nightozp@gmail.com Discord:// .vexatious
-- 😄 Pronouns: He/Him/Them
+ Hello, My name is Alex
+- I graduated from Southern New Hampshire University.
+- 
+- My current programming languages:
+- C++, Java, JavaScript, Python, Kotlin
+- 
+- Full-Stack Tech Stack: MEAN
+- 
+- 📫 How to reach me: Email:// alexander.griffith.12@outlook.com // Discord: .vexatious
