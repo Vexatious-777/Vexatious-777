@@ -1,9 +1,9 @@
  Hello, My name is Alex
-- I graduated from Southern New Hampshire University.
+- I graduated from Southern New Hampshire University in April 2025
 - 
-- My current programming languages:
-- C++, Java, JavaScript, Python, Kotlin
+- programming languages I have worked with:
+- C++, Java, JavaScript, Python
 - 
-- Full-Stack Tech Stack: MEAN
+- Looking to gain Experience
 - 
 - 📫 How to reach me: Email:// alexander.griffith.12@outlook.com // Discord: .vexatious
