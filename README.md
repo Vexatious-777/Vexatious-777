@@ -22,7 +22,7 @@ I graduated in April 2025 and am actively seeking my first professional role! Iâ
 - **Travel Site (School Project)**  
   Designed and developed a dynamic travel website as part of my coursework, implementing responsive design and interactive user experiences.
 
-- **DEMONSUMMONINGPROGRAM**  
+- ** *WIP* DEMONSUMMONINGPROGRAM**  
   A labor-of-love fan project inspired by the Shin Megami Tensei (SMT) seriesâ€”a tribute to the games and my passion for creative coding.
 
 ---
