@@ -40,6 +40,7 @@ Dynamic travel website with both customer-facing and admin functionality, implem
 ---
 
 ## 📊 GitHub Stats
+> *Working on improving these numbers*
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vexatious-777&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vexatious-777&layout=compact&theme=radical)
