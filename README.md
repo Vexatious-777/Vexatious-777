@@ -1,6 +1,5 @@
-# Hi, I’m Alex👋
-
-🎓 **New Grad looking for that first year experience**
+# Hello, My name is Alex
+---
 
 I graduated in April 2025 and am actively seeking my first professional role! I’m passionate about technology and am constantly upskilling to land an opportunity where I can contribute and grow.
 
