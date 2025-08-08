@@ -32,7 +32,7 @@ I graduated in April 2025 and am actively seeking my first professional role! I�
 - [LinkedIn](https://www.linkedin.com/in/alexg12)
 
 ---
-
+> "Journey Before Destination", "Strength Before Weakness" , "Life Before Death"
 > “The next step we take is always the most important one.”
 
 ---
