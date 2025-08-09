@@ -70,4 +70,4 @@ Jupyter Notebook demonstrating capability of acting as a Data Analyst, specifica
 > *"The most important step a man can take. It's not the first one, is it? It's the next one. Always the next step."*  
 > — Brandon Sanderson, *The Way of Kings*
 
-⚡ **Fun fact:** When I'm not coding, you'll find me immersed in fantasy novels or some kind of RPG in my free time!
+⚡ **Fun fact:** When I'm not coding or working on improving my knowledge and skill set, you'll find me immersed in fantasy novels or some kind of RPG in my free time!
