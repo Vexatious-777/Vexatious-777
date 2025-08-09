@@ -18,6 +18,7 @@ I'm a **Computer Science graduate** (April 2025) actively seeking my first profe
 **Currently Learning:**  
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=unity&logoColor=white)
 
 *Also diving into Professor Messer's CompTIA certification course prep materials for IT and DevOps role preparation.*
 
