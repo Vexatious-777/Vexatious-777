@@ -34,6 +34,9 @@ Local inventory management solution built for Android, featuring user authentica
 ### [CS-465 Full Stack Travel Site](https://github.com/Vexatious-777/CS-465)
 Dynamic travel website with both customer-facing and admin functionality, implementing modern web development practices and responsive design.
 
+### [HealthCare Data Analysis Mockup](https://github.com/Vexatious-777/HealthCare_Data_Mockup)
+Jupyter Notebook demonstrating capability of acting as a Data Analyst, specifically for Health Care Purposes
+
 ### [DEMON SUMMONING PROGRAM](https://github.com/Vexatious-777/DEMONSUMMONINGPROGRAM) 🔥
 *Work in Progress* - A fan tribute to the Shin Megami Tensei series.
 
