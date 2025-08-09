@@ -1,6 +1,6 @@
 # Hello! I'm Alex 👋
 
-I'm a **Computer Science graduate** (April 2025) actively seeking my first professional role in software development. I'm passionate about building meaningful technology solutions and constantly expanding my skill set to tackle new challenges.
+I'm a **Computer Science graduate** (April 2025) actively seeking my first professional role in software development, IT, or anything within the Technology Business Sphere. Really at the end of the day I am just looking for my niche after graduating. Whatever position I find myself in will be the one I plan on throwing myself at with abandon until I have a career and life I am proud of. I'm passionate about technology and constantly expanding my skills to tackle new challenges.
 
 ## 🛠️ Technical Skills
 
