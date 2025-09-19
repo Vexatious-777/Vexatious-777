@@ -27,7 +27,7 @@ I'm a **Computer Science graduate** (April 2025) actively seeking my first profe
 ## 🚀 Featured Projects
 
 ### *WIP* [IT-Portfolio and Homelab](https://github.com/Vexatious-777/IT-HomeLab-and-Portfolio)
-A collection of scritps,practices,Knowledge Bases, and more to prove my ability to act as an IT professional
+A collection of scritps, practices, Knowledge Bases, and more to prove my ability to act as an IT professional.
 
 ### [CS330 - Computer Graphics (OpenGL)](https://github.com/Vexatious-777/CS330)
 3D graphics programming using OpenGL to recreate realistic environments with advanced lighting, texturing, and interactive camera controls.
